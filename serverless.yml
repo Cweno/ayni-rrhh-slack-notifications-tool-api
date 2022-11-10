@@ -1,4 +1,4 @@
-service: aynitech-rrhh-slack-notifications-tool
+service: aynitech-rrhh-slack-notifications-api
 frameworkVersion: '3'
 configValidationMode: error
 useDotenv: true
